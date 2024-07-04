@@ -1,0 +1,14 @@
+C:\Users\shaun\source\repos\A1FINAL-SQ\A1FINAL-SQ\bin\Debug\net8.0\A1FINAL-SQ.exe
+C:\Users\shaun\source\repos\A1FINAL-SQ\A1FINAL-SQ\bin\Debug\net8.0\A1FINAL-SQ.deps.json
+C:\Users\shaun\source\repos\A1FINAL-SQ\A1FINAL-SQ\bin\Debug\net8.0\A1FINAL-SQ.runtimeconfig.json
+C:\Users\shaun\source\repos\A1FINAL-SQ\A1FINAL-SQ\bin\Debug\net8.0\A1FINAL-SQ.dll
+C:\Users\shaun\source\repos\A1FINAL-SQ\A1FINAL-SQ\bin\Debug\net8.0\A1FINAL-SQ.pdb
+C:\Users\shaun\source\repos\A1FINAL-SQ\A1FINAL-SQ\obj\Debug\net8.0\A1FINAL-SQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaun\source\repos\A1FINAL-SQ\A1FINAL-SQ\obj\Debug\net8.0\A1FINAL-SQ.AssemblyInfoInputs.cache
+C:\Users\shaun\source\repos\A1FINAL-SQ\A1FINAL-SQ\obj\Debug\net8.0\A1FINAL-SQ.AssemblyInfo.cs
+C:\Users\shaun\source\repos\A1FINAL-SQ\A1FINAL-SQ\obj\Debug\net8.0\A1FINAL-SQ.csproj.CoreCompileInputs.cache
+C:\Users\shaun\source\repos\A1FINAL-SQ\A1FINAL-SQ\obj\Debug\net8.0\A1FINAL-SQ.dll
+C:\Users\shaun\source\repos\A1FINAL-SQ\A1FINAL-SQ\obj\Debug\net8.0\refint\A1FINAL-SQ.dll
+C:\Users\shaun\source\repos\A1FINAL-SQ\A1FINAL-SQ\obj\Debug\net8.0\A1FINAL-SQ.pdb
+C:\Users\shaun\source\repos\A1FINAL-SQ\A1FINAL-SQ\obj\Debug\net8.0\A1FINAL-SQ.genruntimeconfig.cache
+C:\Users\shaun\source\repos\A1FINAL-SQ\A1FINAL-SQ\obj\Debug\net8.0\ref\A1FINAL-SQ.dll
