@@ -71,7 +71,7 @@ namespace A1FINAL_SQ
 
                 switch (choice)
                 {
-                    case ".1":
+                    case "1":
                         Checkout();
                         break;
                     case "2":
